@@ -1,0 +1,9 @@
+C:\Users\davin\OneDrive\Documents\Visual Studio 2010\Projects\TaskManager1\TaskManager1\bin\Debug\TaskManager1.exe
+C:\Users\davin\OneDrive\Documents\Visual Studio 2010\Projects\TaskManager1\TaskManager1\bin\Debug\TaskManager1.pdb
+C:\Users\davin\OneDrive\Documents\Visual Studio 2010\Projects\TaskManager1\TaskManager1\obj\x86\Debug\TaskManager1.Form1.resources
+C:\Users\davin\OneDrive\Documents\Visual Studio 2010\Projects\TaskManager1\TaskManager1\obj\x86\Debug\TaskManager1.Properties.Resources.resources
+C:\Users\davin\OneDrive\Documents\Visual Studio 2010\Projects\TaskManager1\TaskManager1\obj\x86\Debug\TaskManager1.csproj.GenerateResource.Cache
+C:\Users\davin\OneDrive\Documents\Visual Studio 2010\Projects\TaskManager1\TaskManager1\obj\x86\Debug\TaskManager1.exe
+C:\Users\davin\OneDrive\Documents\Visual Studio 2010\Projects\TaskManager1\TaskManager1\obj\x86\Debug\TaskManager1.pdb
+C:\Users\davin\onedrive\documents\visual studio 2010\Projects\TaskManager1\TaskManager1\obj\x86\Debug\TaskManager1.csprojResolveAssemblyReference.cache
+C:\Users\davin\onedrive\documents\visual studio 2010\Projects\TaskManager1\TaskManager1\obj\x86\Debug\TaskManager1.RunNewTask.resources
